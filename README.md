@@ -9,7 +9,7 @@ This project uses **machine learning and explainable AI (SHAP)** to identify cus
 ## 🚀 Live Application
 
 Streamlit App:  
-https://your-app-link.streamlit.app
+[https://your-app-link.streamlit.app](https://telecom-churn-dashboard-6erva2tfhd9sqx5zvlojapp.streamlit.app/)
 
 ---
 
